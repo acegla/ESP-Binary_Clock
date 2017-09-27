@@ -13,8 +13,5 @@ I use ESP-01 and led strip with chip simmilar to WS2812
 
 ## Authors
 
-* **Adam Ceglarek** - *Initial work* 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+* **[ACEGLA](https://github.com/acegla)** - *Initial work* 
 
